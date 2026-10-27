@@ -4,6 +4,8 @@ Predicting used car prices in the Indian market using data analysis and machine 
 
 **Live app:** https://india-used-car-advisor.streamlit.app
 
+![App screenshot](app/screenshot.png)
+
 ## Status
 - [x] Load and clean the data
 - [x] Exploratory analysis and charts
